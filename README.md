@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/6n8uYIp6A)]
+ ![blue clouds header](https://github.com/user-attachments/assets/d64fa92c-b526-48d6-812f-4c17e481fee7)
 <h1 align="center">Hi 👋, I'm Buvanes Srivardan K</h1>
 <h3 align="center">A Student of Madras Institute of Technology</h3>
 
